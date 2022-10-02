@@ -9,7 +9,7 @@
         android:id="@+id/text_title"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        tools:text="Nanti  kita  cerita  hari  ini"
+        tools:text="Pesan Makanan atau Minuman"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"

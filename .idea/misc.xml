@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/Desktop/android studio/UGDNotif/app/src/main/res/layout/activity_edit_note.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/android studio/UGDNotif/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/android studio/UGDNotif/app/src/main/res/layout/activity_note_adapter.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/android studio/UGDNotif/app/src/main/res/layout/activity_notebeli.xml" value="0.25" />
         <entry key="..\:/apa/Terbaru/UGDnyakawan/app/src/main/res/layout/activity_registrasi.xml" value="0.21875" />
       </map>
     </option>
